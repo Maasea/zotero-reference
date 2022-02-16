@@ -1,4 +1,4 @@
-# Zotero-referebnce
+# Zotero-reference
 China National Standard GB/T 7714-2015
 1. 作者仅首字母大写
 2. 支持中文 **等** 和英文 **et al** （需要在英文文献语言一栏填上 `en`）
